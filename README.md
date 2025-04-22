@@ -17,7 +17,7 @@ To help airlines identify key factors influencing customer satisfaction and pred
 - **Evaluation**: Accuracy, F1-Score, Confusion Matrix, ROC-AUC.
 
 ## Problem Statement
-Predict whether a passenger is **Satisfied**, **neutral**, or **Dissactisfied** based on service ratings and flight related features.
+The airline industry faces challenges in maintaining high customer satisfaction levels due to varying passenger experiences with flight services and amenities. Understanding the factors driving dissatisfaction is crucial to improving service quality.
 
 ## Key Insights
 - Dissatisfaction is highly linked to In-flight comfort, delays and service ratings.
